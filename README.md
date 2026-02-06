@@ -1,4 +1,4 @@
-# pynq_ultrasound_pulser
+# pynq_pulser
 
 Project: Pulsed-Wave Doppler Ultrasound System for Blood Velocity Estimation
 
