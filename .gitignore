@@ -1,0 +1,35 @@
+# Vivado Project output files
+*.log
+*.jou
+*.str
+*.os
+.Xil/
+*.cache/
+*.gen/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+
+# Simulation files
+*.sim/
+*.wdb
+*.wcfg
+
+# Implementation & Synthesis Runs (Massive folders, do not commit)
+# You regenerate these by clicking "Generate Bitstream"
+*.runs/
+
+# Pynq/Software specific
+__pycache__/
+*.ipynb_checkpoints/
+
+# Bitstreams
+*.bit
+*.hwh
+# EXCEPT: released bitstreams
+!releases/*.bit
+!releases/*.hwh
+
+# Local User Settings
+*.os
